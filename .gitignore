@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+
+# OS / tools
+.DS_Store
+Thumbs.db
+
+# Node/others (just in case)
+node_modules/
