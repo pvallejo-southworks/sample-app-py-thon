@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: sample-app
-          image: pvallejoacr001.azurecr.io/sample-app:v1
+          image: pvallejoacr001.azurecr.io/sample-app:v1.0.1
           ports:
             - containerPort: 8080
           readinessProbe:
